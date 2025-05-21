@@ -3,6 +3,7 @@ name: ms
 on:
   push:
     branches:
+      - arm64-runner
       - master
   pull_request:
     branches:
